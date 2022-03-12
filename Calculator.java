@@ -30,8 +30,7 @@ public class Calculator {
                 System.out.print("The result of the operation is " + (firstOp + secOp) + ". Goodbye!");
                 break;
             case 2:
-                //System.out.print("The result of the operation is " + (firstOp - secOp) + ". Goodbye!");
-                System.out.print("Coming soon!");
+                System.out.print("The result of the operation is " + (firstOp - secOp) + ". Goodbye!");
                 break;
         }
 
